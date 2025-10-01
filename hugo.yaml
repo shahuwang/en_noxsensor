@@ -15,8 +15,8 @@ menu:
       name: NOx Sensor
       pageRef: /products/nox-sensor
       parent: Products
-    - identifier: Urea Dosing Module
-      name: urea-dosing-module
+    - identifier: urea-dosing-module
+      name: Urea Dosing Module
       weight: 2
       pageRef: /products/urea-dosing-module
       parent: Products
