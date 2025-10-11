@@ -2,43 +2,43 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/en_noxsensor/blog/</loc>
+    <loc>http://localhost:1313/blog/</loc>
     <lastmod>2025-10-02T01:20:38+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/en_noxsensor/contact/</loc>
+    <loc>http://localhost:1313/contact/</loc>
     <lastmod>2025-10-02T01:20:38+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/en_noxsensor/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2025-10-02T01:20:38+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/en_noxsensor/about/</loc>
+    <loc>http://localhost:1313/about/</loc>
   </url><url>
-    <loc>http://localhost:1313/en_noxsensor/products/nox-sensor/bmw/</loc>
+    <loc>http://localhost:1313/products/nox-sensor/bmw/</loc>
   </url><url>
-    <loc>http://localhost:1313/en_noxsensor/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/en_noxsensor/products/tester/desktop/</loc>
+    <loc>http://localhost:1313/products/tester/desktop/</loc>
   </url><url>
-    <loc>http://localhost:1313/en_noxsensor/products/tester/handheld/</loc>
+    <loc>http://localhost:1313/products/tester/handheld/</loc>
   </url><url>
-    <loc>http://localhost:1313/en_noxsensor/blog/how-to-order/</loc>
+    <loc>http://localhost:1313/blog/how-to-order/</loc>
   </url><url>
-    <loc>http://localhost:1313/en_noxsensor/products/nox-sensor/mercedes-benz/</loc>
+    <loc>http://localhost:1313/products/nox-sensor/mercedes-benz/</loc>
   </url><url>
-    <loc>http://localhost:1313/en_noxsensor/products/nox-sensor/</loc>
+    <loc>http://localhost:1313/products/nox-sensor/</loc>
   </url><url>
-    <loc>http://localhost:1313/en_noxsensor/blog/origin-or-aftermarket/</loc>
+    <loc>http://localhost:1313/blog/origin-or-aftermarket/</loc>
   </url><url>
-    <loc>http://localhost:1313/en_noxsensor/products/</loc>
+    <loc>http://localhost:1313/products/</loc>
   </url><url>
-    <loc>http://localhost:1313/en_noxsensor/products/urea-dosing-module/scania/</loc>
+    <loc>http://localhost:1313/products/urea-dosing-module/scania/</loc>
   </url><url>
-    <loc>http://localhost:1313/en_noxsensor/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
   </url><url>
-    <loc>http://localhost:1313/en_noxsensor/products/tester/</loc>
+    <loc>http://localhost:1313/products/tester/</loc>
   </url><url>
-    <loc>http://localhost:1313/en_noxsensor/products/urea-dosing-module/</loc>
+    <loc>http://localhost:1313/products/urea-dosing-module/</loc>
   </url><url>
-    <loc>http://localhost:1313/en_noxsensor/products/urea-dosing-module/volvo/</loc>
+    <loc>http://localhost:1313/products/urea-dosing-module/volvo/</loc>
   </url>
 </urlset>

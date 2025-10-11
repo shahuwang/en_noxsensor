@@ -1,13 +1,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Volnox NOx Sensor – Blog</title>
-    <link>http://localhost:1313/en_noxsensor/blog/</link>
+    <link>http://localhost:1313/blog/</link>
     <description>Recent content in Blog on Volnox NOx Sensor</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 02 Oct 2025 01:20:38 +0800</lastBuildDate>
     
-	  <atom:link href="http://localhost:1313/en_noxsensor/blog/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
     
     
       
