@@ -4,7 +4,7 @@ title: Volnox NOx Sensor
 module:
   imports:
     - path: github.com/imfing/hextra
-
+timeZone: "Asia/Shanghai"
 menu:
   main:
     - identifier: Products
