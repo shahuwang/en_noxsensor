@@ -1,8 +1,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Volnox NOx Sensor – Urea Dosing Module</title>
+    <title>Fortisor NOx Sensor – Urea Dosing Module</title>
     <link>http://localhost:1313/products/urea-dosing-module/</link>
-    <description>Recent content in Urea Dosing Module on Volnox NOx Sensor</description>
+    <description>Recent content in Urea Dosing Module on Fortisor NOx Sensor</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
@@ -16,10 +16,10 @@
     
     <item>
       <title>Scania</title>
-      <link>http://localhost:1313/products/urea-dosing-module/scania/</link>
+      <link>http://localhost:1313/products/urea-dosing-module/Scania/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/products/urea-dosing-module/scania/</guid>
+      <guid>http://localhost:1313/products/urea-dosing-module/Scania/</guid>
       <description>
         
         
@@ -29,10 +29,10 @@
     
     <item>
       <title>Volvo</title>
-      <link>http://localhost:1313/products/urea-dosing-module/volvo/</link>
+      <link>http://localhost:1313/products/urea-dosing-module/Volvo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/products/urea-dosing-module/volvo/</guid>
+      <guid>http://localhost:1313/products/urea-dosing-module/Volvo/</guid>
       <description>
         
         
