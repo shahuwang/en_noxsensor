@@ -51,8 +51,15 @@ Choosing Fortisor means gaining a partnership defined by **high efficiency and t
 Whether you are an auto parts distributor seeking a stable supply or a repair group valuing product reliability, Fortisor is your ideal integrated partner.
 
 **\[Contact the Fortisor Guangzhou Sales Team Immediately\]**
+
 Email: fortisor@163.com
+
 WhatsApp: +86 18819394993
 
+Room 14-1202, Bailujun, Huangge Town, Nansha District, Guangzhou City, Guangdong Province, China.
+
 **\[Schedule Your Huizhou Factory Visit or Online Quality Audit\]**
+
 Email: noxsensorexpert@gmail.com
+
+4th Floor, No. 7 Huixing Road, Qiuchang Street, Huiyang District, Huizhou City, Guangdong Province, China
