@@ -13,7 +13,9 @@ We are committed to empowering auto parts distributors and professional repair s
 ### Fortisor's Dual Guarantee: Full Control Over the Product Value Chain
 
 We maintain **comprehensive and deep control** over the entire NOx sensor value chain, which is the foundation of our commitment to superior quality and stable supply.
-\#### Manufacturing and Technology Core: Huizhou
+
+#### Manufacturing and Technology Core: Huizhou
+
 The Huizhou base serves as Fortisor's center for **Technology R&D, Production Manufacturing, and stringent Quality Control**.
 
 - **Integrated Production:** Our facilities ensure **high-standard, full-process manufacturing**, from core sensing elements and circuit design to final encapsulation.
