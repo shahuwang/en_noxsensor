@@ -1,7 +1,7 @@
 ---
 date: "2025-10-13T20:13:56+08:00"
 draft: false
-title: About US
+title: About Us
 ---
 
 ### Fortisor: The OE-Quality, Integrated NOx Sensor Expert
