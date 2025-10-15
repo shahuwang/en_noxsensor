@@ -31,7 +31,7 @@ menu:
       pageRef: /blog
       weight: 2
     - name: Contact
-      pageRef: /contact
+      pageRef: /Contact
       weight: 3
     - name: About
       pageRef: /about
