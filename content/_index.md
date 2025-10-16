@@ -2,6 +2,14 @@
 date: "2025-10-13T00:35:28+08:00"
 draft: false
 title: Fortisor® Advanced NOx Sensing Solutions
+swiper_images:
+  - "../Contact/99de5577d43cb3466476092f64ac7d1f28c73e67.png"
+  - "../Fortisor%20NOx%20Sensor/e1377604cd8ab86a45ff8f93dadfd37ed0fbacff.jpg"
+  - "../Fortisor%20NOx%20Sensor/d201d22d5c396480db6ced122e59f59c36f3ff9b.jpg"
+  - "../Fortisor%20NOx%20Sensor/321a371a06c039a7eda69914d0db52badca9792b.jpg"
+  - "../Fortisor%20NOx%20Sensor/eba26196ff70801bf7643b3288f91ca4ec884acd.jpg"
+  - "../Fortisor%20NOx%20Sensor/b70fca3a576971130f882c4b267cffac55e4ea4b.jpg"
+  - "../Fortisor%20NOx%20Sensor/64d7ebc49061bfc3ab728bb9a2586e62c1542562.webp"
 ---
 
 ## Driving Emission Compliance and Performance Across All Vehicle Segments.
@@ -45,10 +53,4 @@ Partnering with Fortisor means more than just procuring parts; it means gaining 
 
 **Fortisor® \| Advanced Aftermarket Sensing Solutions**
 
-![factory](../Fortisor%20NOx%20Sensor/cb142739e8b32ef5b0655cf0053b4214a309e607.jpg)
-![](../Fortisor%20NOx%20Sensor/e1377604cd8ab86a45ff8f93dadfd37ed0fbacff.jpg)
-![](../Fortisor%20NOx%20Sensor/d201d22d5c396480db6ced122e59f59c36f3ff9b.jpg)
-![](../Fortisor%20NOx%20Sensor/321a371a06c039a7eda69914d0db52badca9792b.jpg)
-![](../Fortisor%20NOx%20Sensor/eba26196ff70801bf7643b3288f91ca4ec884acd.jpg)
-![](../Fortisor%20NOx%20Sensor/b70fca3a576971130f882c4b267cffac55e4ea4b.jpg)
-![](../Fortisor%20NOx%20Sensor/64d7ebc49061bfc3ab728bb9a2586e62c1542562.webp)
+{{< swiper >}}

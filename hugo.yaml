@@ -40,7 +40,8 @@ menu:
       weight: 5
       params:
         type: search
-
+# 是否开启轮播图
+enableCarousel: true
 params:
   # Search
   search:

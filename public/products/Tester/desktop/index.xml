@@ -1,12 +1,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Fortisor NOx Sensor – Desktop Tester</title>
-    <link>http://localhost:39811/products/Tester/desktop/</link>
+    <link>http://localhost:1313/products/Tester/desktop/</link>
     <description>Recent content in Desktop Tester on Fortisor NOx Sensor</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	  <atom:link href="http://localhost:39811/products/Tester/desktop/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="http://localhost:1313/products/Tester/desktop/index.xml" rel="self" type="application/rss+xml" />
     
     
       
