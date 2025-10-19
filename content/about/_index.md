@@ -26,7 +26,8 @@ The Huizhou base serves as Fortisor's center for **Technology R&D, Production Ma
 
 - **Commitment to Customers:** We welcome partners to conduct **Factory Audits**. Upon request, we are ready to arrange a visit to our Huizhou facility so you can personally experience our high standards in manufacturing and quality control.
 
-**Click here to view the video: [Fortisor QC Journey: A Transparent Tour of Our High-Standard Huizhou NOx Sensor Facility](https://gv.videocdn.alibaba.com/icbu_vod_video/video_target/gv95-f6138524-a1b5689c-95f4402a-551e/trans/aidc/gx4jot-h264-hd.mp4)**
+**Fortisor QC Journey: A Transparent Tour of Our High-Standard Huizhou NOx Sensor Facility**
+{{< youtube Ws6PrmkZfDw >}}
 
 ##### Market and Service Hub: Guangzhou
 

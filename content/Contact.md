@@ -45,11 +45,3 @@ Room 14-1202, Bailujun, Huangge Town, Nansha District, Guangzhou City, Guangdong
 Email: <noxsensorexpert@gmail.com>
 
 4th Floor, No. 7 Huixing Road, Qiuchang Street, Huiyang District, Huizhou City, Guangdong Province, China.
-
-[Fortisor QC Journey: A Transparent Tour of Our High-Standard Huizhou NOx Sensor Facility](https://gv.videocdn.alibaba.com/icbu_vod_video/video_target/gv95-f6138524-a1b5689c-95f4402a-551e/trans/aidc/gx4jot-h264-hd.mp4)
-
-![]()
-
-{{< swiper >}}
-
-
