@@ -8,6 +8,9 @@
     <loc>http://localhost:1313/products/nox-sensor/Hyundai/</loc>
     <lastmod>2025-10-22T00:35:28+08:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/products/nox-sensor/IVECO/</loc>
+    <lastmod>2025-10-22T00:35:28+08:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/products/nox-sensor/MAN/</loc>
     <lastmod>2025-10-22T00:35:28+08:00</lastmod>
   </url><url>
@@ -15,6 +18,9 @@
     <lastmod>2025-10-22T00:35:28+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/products/</loc>
+    <lastmod>2025-10-22T00:35:28+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/products/nox-sensor/Renault/</loc>
     <lastmod>2025-10-22T00:35:28+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/products/nox-sensor/Scania/</loc>
@@ -42,9 +48,5 @@
     <loc>http://localhost:1313/blog/Origin-or-Aftermarket/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
-  </url><url>
-    <loc>http://localhost:1313/products/Tester/</loc>
-  </url><url>
-    <loc>http://localhost:1313/products/urea-dosing-module/</loc>
   </url>
 </urlset>
