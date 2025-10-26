@@ -8,6 +8,10 @@ timeZone: "Asia/Shanghai"
 disablePathToLower: true
 menu:
   main:
+    - identifier: NOx-Sensor
+      name: NOx Sensor
+      weight: 1
+      pageRef: /products/nox-sensor/mercedes-benz
     - identifier: Products
       name: Products
       weight: 1
@@ -16,20 +20,20 @@ menu:
       name: NOx Sensor
       pageRef: /products/nox-sensor
       parent: Products
-    - identifier: urea-dosing-module
-      name: Urea Dosing Module
-      weight: 2
-      pageRef: /products/urea-dosing-module
-      parent: Products
-    - identifier: Tester
-      name: Tester
-      weight: 3
-      pageRef: /products/tester
-      parent: Products
-      breadcrumbs: true
-    - name: Blog
-      pageRef: /blog
-      weight: 2
+    # - identifier: urea-dosing-module
+    #   name: Urea Dosing Module
+    #   weight: 2
+    #   pageRef: /products/urea-dosing-module
+    #   parent: Products
+    # - identifier: Tester
+    #   name: Tester
+    #   weight: 3
+    #   pageRef: /products/tester
+    #   parent: Products
+    #   breadcrumbs: true
+    # - name: Blog
+    #   pageRef: /blog
+    #   weight: 2
     - name: Contact
       pageRef: /Contact
       weight: 3

@@ -1,4 +1,0 @@
----
-title: Volvo
-breadcrumbs: true
----

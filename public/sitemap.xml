@@ -2,6 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/products/nox-sensor/DAF/</loc>
+    <lastmod>2025-10-22T00:35:28+08:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/products/nox-sensor/Hyundai/</loc>
     <lastmod>2025-10-22T00:35:28+08:00</lastmod>
   </url><url>
@@ -34,22 +37,14 @@
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/products/Tester/desktop/</loc>
-  </url><url>
-    <loc>http://localhost:1313/products/Tester/Handheld/</loc>
-  </url><url>
     <loc>http://localhost:1313/blog/How-to-Order/</loc>
   </url><url>
     <loc>http://localhost:1313/blog/Origin-or-Aftermarket/</loc>
-  </url><url>
-    <loc>http://localhost:1313/products/urea-dosing-module/Scania/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
   </url><url>
     <loc>http://localhost:1313/products/Tester/</loc>
   </url><url>
     <loc>http://localhost:1313/products/urea-dosing-module/</loc>
-  </url><url>
-    <loc>http://localhost:1313/products/urea-dosing-module/Volvo/</loc>
   </url>
 </urlset>
