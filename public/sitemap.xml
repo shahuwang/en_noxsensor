@@ -2,57 +2,75 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/products/nox-sensor/DAF/</loc>
+    <loc>https://fortisor.com/products/nox-sensor/Caterpillar/</loc>
     <lastmod>2025-10-22T00:35:28+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/products/nox-sensor/Hyundai/</loc>
+    <loc>https://fortisor.com/products/nox-sensor/Cummins/</loc>
     <lastmod>2025-10-22T00:35:28+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/products/nox-sensor/ISUZU/</loc>
+    <loc>https://fortisor.com/products/nox-sensor/DAF/</loc>
     <lastmod>2025-10-22T00:35:28+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/products/nox-sensor/IVECO/</loc>
+    <loc>https://fortisor.com/products/nox-sensor/HINO/</loc>
     <lastmod>2025-10-22T00:35:28+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/products/nox-sensor/MAN/</loc>
+    <loc>https://fortisor.com/products/nox-sensor/Hyundai/</loc>
     <lastmod>2025-10-22T00:35:28+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/products/nox-sensor/FUSO/</loc>
+    <loc>https://fortisor.com/products/nox-sensor/ISUZU/</loc>
     <lastmod>2025-10-22T00:35:28+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/products/nox-sensor/</loc>
+    <loc>https://fortisor.com/products/nox-sensor/IVECO/</loc>
     <lastmod>2025-10-22T00:35:28+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/products/</loc>
+    <loc>https://fortisor.com/products/nox-sensor/MAN/</loc>
     <lastmod>2025-10-22T00:35:28+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/products/nox-sensor/Renault/</loc>
+    <loc>https://fortisor.com/products/nox-sensor/FUSO/</loc>
     <lastmod>2025-10-22T00:35:28+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/products/nox-sensor/Scania/</loc>
+    <loc>https://fortisor.com/products/nox-sensor/</loc>
     <lastmod>2025-10-22T00:35:28+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/products/nox-sensor/Volvo/</loc>
+    <loc>https://fortisor.com/products/</loc>
     <lastmod>2025-10-22T00:35:28+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/products/nox-sensor/mercedes-benz/</loc>
+    <loc>https://fortisor.com/products/nox-sensor/Renault/</loc>
+    <lastmod>2025-10-22T00:35:28+08:00</lastmod>
+  </url><url>
+    <loc>https://fortisor.com/products/nox-sensor/Scania/</loc>
+    <lastmod>2025-10-22T00:35:28+08:00</lastmod>
+  </url><url>
+    <loc>https://fortisor.com/products/nox-sensor/Volvo/</loc>
+    <lastmod>2025-10-22T00:35:28+08:00</lastmod>
+  </url><url>
+    <loc>https://fortisor.com/products/nox-sensor/Audi/</loc>
     <lastmod>2025-10-19T00:35:28+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/Contact/</loc>
+    <loc>https://fortisor.com/products/nox-sensor/BMW/</loc>
+    <lastmod>2025-10-19T00:35:28+08:00</lastmod>
+  </url><url>
+    <loc>https://fortisor.com/products/nox-sensor/mercedes-benz/</loc>
+    <lastmod>2025-10-19T00:35:28+08:00</lastmod>
+  </url><url>
+    <loc>https://fortisor.com/products/nox-sensor/VW/</loc>
+    <lastmod>2025-10-19T00:35:28+08:00</lastmod>
+  </url><url>
+    <loc>https://fortisor.com/Contact/</loc>
     <lastmod>2025-10-15T19:42:08+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>https://fortisor.com/about/</loc>
     <lastmod>2025-10-13T20:13:56+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://fortisor.com/</loc>
     <lastmod>2025-10-13T00:35:28+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://fortisor.com/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/blog/How-to-Order/</loc>
+    <loc>https://fortisor.com/blog/How-to-Order/</loc>
   </url><url>
-    <loc>http://localhost:1313/blog/Origin-or-Aftermarket/</loc>
+    <loc>https://fortisor.com/blog/Origin-or-Aftermarket/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://fortisor.com/tags/</loc>
   </url>
 </urlset>
