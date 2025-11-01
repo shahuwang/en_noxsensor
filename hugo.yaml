@@ -31,9 +31,9 @@ menu:
     #   pageRef: /products/tester
     #   parent: Products
     #   breadcrumbs: true
-    # - name: Blog
-    #   pageRef: /blog
-    #   weight: 2
+    - name: Blog
+      pageRef: /blog
+      weight: 2
     - name: Contact
       pageRef: /Contact
       weight: 3
