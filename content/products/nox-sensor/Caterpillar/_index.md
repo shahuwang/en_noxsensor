@@ -18,7 +18,7 @@ swiper_images:
 *Fortisor® offers the complete OE cross-reference list for all Caterpillar NOx sensors.  
 Find the perfect high-quality replacement sensor for your Heavy-duty trucks, long-distance buses, city buses, power generators, and marine engines by part number.*
 
-{{< swiper ratio="4/3" fit="cover" maxWidth="800px" maxHeight="600px">}}
+{{< swiper ratio="4/3" fit="cover" maxWidth="800px" maxHeight="800px">}}
 
 #### Global Procurement Made Easy: Your Trusted Partner
 **Fortisor®** understands the stringent demands placed on NOx sensors within the Caterpillar SCR system—**precision, reliability, and longevity are non-negotiable**.This page provides the complete OE Cross Reference List for Caterpillar car, SUV, and commercial applications. We are not just a supplier; we are a technical brand deeply focused on emission control technology.
