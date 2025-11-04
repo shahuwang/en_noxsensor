@@ -795,18 +795,31 @@ Find the perfect high-quality replacement sensor for your car, SUV, or commercia
 
 <style>
 .swiper-19f03a {
-  width: 800px;
-  margin: 0 auto;  
+  width: 100%;
+  max-width: 800px;
+  margin: 0 auto;
   
-  height: 600px;
+  aspect-ratio: ZgotmplZ;
   
 }
 
+ 
 .swiper-19f03a .swiper-slide img {
   width: 100%;
   height: 100%;
   object-fit: cover;
   border-radius: 12px;
+  display: block;
+}
+
+ 
+@media (max-width: 768px) {
+  .swiper-19f03a {
+    width: 100%;
+    max-width: 100%;
+    height: auto;
+    aspect-ratio: ZgotmplZ;
+  }
 }
 </style>
 
@@ -814,7 +827,7 @@ Find the perfect high-quality replacement sensor for your car, SUV, or commercia
 <script src="https://cdn.jsdelivr.net/npm/swiper@10/swiper-bundle.min.js"></script>
 <script>
 document.addEventListener('DOMContentLoaded', function () {
-  var swiper = new Swiper(".swiper-19f03a", {
+  new Swiper(".swiper-19f03a", {
     loop: true,
     pagination: { el: ".swiper-19f03a .swiper-pagination", clickable: true },
     navigation: { nextEl: ".swiper-19f03a .swiper-button-next", prevEl: ".swiper-19f03a .swiper-button-prev" },
