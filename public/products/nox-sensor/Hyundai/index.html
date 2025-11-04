@@ -779,6 +779,8 @@ Find the perfect high-quality replacement sensor for your Heavy-duty trucks, lon
       <img src="./assets/hyundai_7.avif" alt="">
     </div>
   </div>
+
+  
   <div class="swiper-pagination"></div>
   <div class="swiper-button-prev"></div>
   <div class="swiper-button-next"></div>
@@ -786,11 +788,23 @@ Find the perfect high-quality replacement sensor for your Heavy-duty trucks, lon
 
 <style>
 .swiper-aec72a {
-  width: 800px;
-  margin: 0 auto;  
+  width: 100%;
+  max-width: 100%;
+  margin: 0 auto;
   
-  height: 600px;
+  aspect-ratio: ZgotmplZ;
   
+}
+
+ 
+.swiper-aec72a .swiper-wrapper {
+  display: flex;
+}
+
+.swiper-aec72a .swiper-slide {
+  flex-shrink: 0;
+  width: 100%;
+  position: relative;
 }
 
 .swiper-aec72a .swiper-slide img {
@@ -798,17 +812,28 @@ Find the perfect high-quality replacement sensor for your Heavy-duty trucks, lon
   height: 100%;
   object-fit: cover;
   border-radius: 12px;
+  display: block;
 }
 </style>
 
+
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@10/swiper-bundle.min.css" />
 <script src="https://cdn.jsdelivr.net/npm/swiper@10/swiper-bundle.min.js"></script>
+
 <script>
 document.addEventListener('DOMContentLoaded', function () {
   var swiper = new Swiper(".swiper-aec72a", {
     loop: true,
-    pagination: { el: ".swiper-aec72a .swiper-pagination", clickable: true },
-    navigation: { nextEl: ".swiper-aec72a .swiper-button-next", prevEl: ".swiper-aec72a .swiper-button-prev" },
+    slidesPerView: 1,
+    spaceBetween: 10,
+    pagination: {
+      el: ".swiper-aec72a .swiper-pagination",
+      clickable: true,
+    },
+    navigation: {
+      nextEl: ".swiper-aec72a .swiper-button-next",
+      prevEl: ".swiper-aec72a .swiper-button-prev",
+    },
   });
 });
 </script>

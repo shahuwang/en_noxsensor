@@ -50,6 +50,8 @@ Find the perfect high-quality replacement sensor for your Heavy-duty trucks, lon
       &lt;img src=&#34;./assets/cat_7.avif&#34; alt=&#34;&#34;&gt;
     &lt;/div&gt;
   &lt;/div&gt;
+
+  
   &lt;div class=&#34;swiper-pagination&#34;&gt;&lt;/div&gt;
   &lt;div class=&#34;swiper-button-prev&#34;&gt;&lt;/div&gt;
   &lt;div class=&#34;swiper-button-next&#34;&gt;&lt;/div&gt;
@@ -57,11 +59,23 @@ Find the perfect high-quality replacement sensor for your Heavy-duty trucks, lon
 
 &lt;style&gt;
 .swiper-ab2ed1 {
-  width: 800px;
-  margin: 0 auto;  
+  width: 100%;
+  max-width: 100%;
+  margin: 0 auto;
   
-  height: 600px;
+  aspect-ratio: ZgotmplZ;
   
+}
+
+ 
+.swiper-ab2ed1 .swiper-wrapper {
+  display: flex;
+}
+
+.swiper-ab2ed1 .swiper-slide {
+  flex-shrink: 0;
+  width: 100%;
+  position: relative;
 }
 
 .swiper-ab2ed1 .swiper-slide img {
@@ -69,17 +83,28 @@ Find the perfect high-quality replacement sensor for your Heavy-duty trucks, lon
   height: 100%;
   object-fit: cover;
   border-radius: 12px;
+  display: block;
 }
 &lt;/style&gt;
 
+
 &lt;link rel=&#34;stylesheet&#34; href=&#34;https://cdn.jsdelivr.net/npm/swiper@10/swiper-bundle.min.css&#34; /&gt;
 &lt;script src=&#34;https://cdn.jsdelivr.net/npm/swiper@10/swiper-bundle.min.js&#34;&gt;&lt;/script&gt;
+
 &lt;script&gt;
 document.addEventListener(&#39;DOMContentLoaded&#39;, function () {
   var swiper = new Swiper(&#34;.swiper-ab2ed1&#34;, {
     loop: true,
-    pagination: { el: &#34;.swiper-ab2ed1 .swiper-pagination&#34;, clickable: true },
-    navigation: { nextEl: &#34;.swiper-ab2ed1 .swiper-button-next&#34;, prevEl: &#34;.swiper-ab2ed1 .swiper-button-prev&#34; },
+    slidesPerView: 1,
+    spaceBetween: 10,
+    pagination: {
+      el: &#34;.swiper-ab2ed1 .swiper-pagination&#34;,
+      clickable: true,
+    },
+    navigation: {
+      nextEl: &#34;.swiper-ab2ed1 .swiper-button-next&#34;,
+      prevEl: &#34;.swiper-ab2ed1 .swiper-button-prev&#34;,
+    },
   });
 });
 &lt;/script&gt;
@@ -222,6 +247,8 @@ Find the perfect high-quality replacement sensor for your Heavy-duty trucks, lon
       &lt;img src=&#34;./assets/Cummins_10.avif&#34; alt=&#34;&#34;&gt;
     &lt;/div&gt;
   &lt;/div&gt;
+
+  
   &lt;div class=&#34;swiper-pagination&#34;&gt;&lt;/div&gt;
   &lt;div class=&#34;swiper-button-prev&#34;&gt;&lt;/div&gt;
   &lt;div class=&#34;swiper-button-next&#34;&gt;&lt;/div&gt;
@@ -229,11 +256,23 @@ Find the perfect high-quality replacement sensor for your Heavy-duty trucks, lon
 
 &lt;style&gt;
 .swiper-75779f {
-  width: 800px;
-  margin: 0 auto;  
+  width: 100%;
+  max-width: 100%;
+  margin: 0 auto;
   
-  height: 600px;
+  aspect-ratio: ZgotmplZ;
   
+}
+
+ 
+.swiper-75779f .swiper-wrapper {
+  display: flex;
+}
+
+.swiper-75779f .swiper-slide {
+  flex-shrink: 0;
+  width: 100%;
+  position: relative;
 }
 
 .swiper-75779f .swiper-slide img {
@@ -241,17 +280,28 @@ Find the perfect high-quality replacement sensor for your Heavy-duty trucks, lon
   height: 100%;
   object-fit: cover;
   border-radius: 12px;
+  display: block;
 }
 &lt;/style&gt;
 
+
 &lt;link rel=&#34;stylesheet&#34; href=&#34;https://cdn.jsdelivr.net/npm/swiper@10/swiper-bundle.min.css&#34; /&gt;
 &lt;script src=&#34;https://cdn.jsdelivr.net/npm/swiper@10/swiper-bundle.min.js&#34;&gt;&lt;/script&gt;
+
 &lt;script&gt;
 document.addEventListener(&#39;DOMContentLoaded&#39;, function () {
   var swiper = new Swiper(&#34;.swiper-75779f&#34;, {
     loop: true,
-    pagination: { el: &#34;.swiper-75779f .swiper-pagination&#34;, clickable: true },
-    navigation: { nextEl: &#34;.swiper-75779f .swiper-button-next&#34;, prevEl: &#34;.swiper-75779f .swiper-button-prev&#34; },
+    slidesPerView: 1,
+    spaceBetween: 10,
+    pagination: {
+      el: &#34;.swiper-75779f .swiper-pagination&#34;,
+      clickable: true,
+    },
+    navigation: {
+      nextEl: &#34;.swiper-75779f .swiper-button-next&#34;,
+      prevEl: &#34;.swiper-75779f .swiper-button-prev&#34;,
+    },
   });
 });
 &lt;/script&gt;
@@ -431,6 +481,8 @@ Find the perfect high-quality replacement sensor for your Heavy-duty trucks, lon
       &lt;img src=&#34;./assets/daf_9.avif&#34; alt=&#34;&#34;&gt;
     &lt;/div&gt;
   &lt;/div&gt;
+
+  
   &lt;div class=&#34;swiper-pagination&#34;&gt;&lt;/div&gt;
   &lt;div class=&#34;swiper-button-prev&#34;&gt;&lt;/div&gt;
   &lt;div class=&#34;swiper-button-next&#34;&gt;&lt;/div&gt;
@@ -438,11 +490,23 @@ Find the perfect high-quality replacement sensor for your Heavy-duty trucks, lon
 
 &lt;style&gt;
 .swiper-08bacc {
-  width: 800px;
-  margin: 0 auto;  
+  width: 100%;
+  max-width: 100%;
+  margin: 0 auto;
   
-  height: 600px;
+  aspect-ratio: ZgotmplZ;
   
+}
+
+ 
+.swiper-08bacc .swiper-wrapper {
+  display: flex;
+}
+
+.swiper-08bacc .swiper-slide {
+  flex-shrink: 0;
+  width: 100%;
+  position: relative;
 }
 
 .swiper-08bacc .swiper-slide img {
@@ -450,17 +514,28 @@ Find the perfect high-quality replacement sensor for your Heavy-duty trucks, lon
   height: 100%;
   object-fit: cover;
   border-radius: 12px;
+  display: block;
 }
 &lt;/style&gt;
 
+
 &lt;link rel=&#34;stylesheet&#34; href=&#34;https://cdn.jsdelivr.net/npm/swiper@10/swiper-bundle.min.css&#34; /&gt;
 &lt;script src=&#34;https://cdn.jsdelivr.net/npm/swiper@10/swiper-bundle.min.js&#34;&gt;&lt;/script&gt;
+
 &lt;script&gt;
 document.addEventListener(&#39;DOMContentLoaded&#39;, function () {
   var swiper = new Swiper(&#34;.swiper-08bacc&#34;, {
     loop: true,
-    pagination: { el: &#34;.swiper-08bacc .swiper-pagination&#34;, clickable: true },
-    navigation: { nextEl: &#34;.swiper-08bacc .swiper-button-next&#34;, prevEl: &#34;.swiper-08bacc .swiper-button-prev&#34; },
+    slidesPerView: 1,
+    spaceBetween: 10,
+    pagination: {
+      el: &#34;.swiper-08bacc .swiper-pagination&#34;,
+      clickable: true,
+    },
+    navigation: {
+      nextEl: &#34;.swiper-08bacc .swiper-button-next&#34;,
+      prevEl: &#34;.swiper-08bacc .swiper-button-prev&#34;,
+    },
   });
 });
 &lt;/script&gt;
@@ -627,6 +702,8 @@ Find the perfect high-quality replacement sensor for your Heavy-duty trucks, lon
       &lt;img src=&#34;./assets/hino_10.avif&#34; alt=&#34;&#34;&gt;
     &lt;/div&gt;
   &lt;/div&gt;
+
+  
   &lt;div class=&#34;swiper-pagination&#34;&gt;&lt;/div&gt;
   &lt;div class=&#34;swiper-button-prev&#34;&gt;&lt;/div&gt;
   &lt;div class=&#34;swiper-button-next&#34;&gt;&lt;/div&gt;
@@ -634,11 +711,23 @@ Find the perfect high-quality replacement sensor for your Heavy-duty trucks, lon
 
 &lt;style&gt;
 .swiper-6b0949 {
-  width: 800px;
-  margin: 0 auto;  
+  width: 100%;
+  max-width: 100%;
+  margin: 0 auto;
   
-  height: 600px;
+  aspect-ratio: ZgotmplZ;
   
+}
+
+ 
+.swiper-6b0949 .swiper-wrapper {
+  display: flex;
+}
+
+.swiper-6b0949 .swiper-slide {
+  flex-shrink: 0;
+  width: 100%;
+  position: relative;
 }
 
 .swiper-6b0949 .swiper-slide img {
@@ -646,17 +735,28 @@ Find the perfect high-quality replacement sensor for your Heavy-duty trucks, lon
   height: 100%;
   object-fit: cover;
   border-radius: 12px;
+  display: block;
 }
 &lt;/style&gt;
 
+
 &lt;link rel=&#34;stylesheet&#34; href=&#34;https://cdn.jsdelivr.net/npm/swiper@10/swiper-bundle.min.css&#34; /&gt;
 &lt;script src=&#34;https://cdn.jsdelivr.net/npm/swiper@10/swiper-bundle.min.js&#34;&gt;&lt;/script&gt;
+
 &lt;script&gt;
 document.addEventListener(&#39;DOMContentLoaded&#39;, function () {
   var swiper = new Swiper(&#34;.swiper-6b0949&#34;, {
     loop: true,
-    pagination: { el: &#34;.swiper-6b0949 .swiper-pagination&#34;, clickable: true },
-    navigation: { nextEl: &#34;.swiper-6b0949 .swiper-button-next&#34;, prevEl: &#34;.swiper-6b0949 .swiper-button-prev&#34; },
+    slidesPerView: 1,
+    spaceBetween: 10,
+    pagination: {
+      el: &#34;.swiper-6b0949 .swiper-pagination&#34;,
+      clickable: true,
+    },
+    navigation: {
+      nextEl: &#34;.swiper-6b0949 .swiper-button-next&#34;,
+      prevEl: &#34;.swiper-6b0949 .swiper-button-prev&#34;,
+    },
   });
 });
 &lt;/script&gt;
@@ -790,6 +890,8 @@ Find the perfect high-quality replacement sensor for your Heavy-duty trucks, lon
       &lt;img src=&#34;./assets/hyundai_7.avif&#34; alt=&#34;&#34;&gt;
     &lt;/div&gt;
   &lt;/div&gt;
+
+  
   &lt;div class=&#34;swiper-pagination&#34;&gt;&lt;/div&gt;
   &lt;div class=&#34;swiper-button-prev&#34;&gt;&lt;/div&gt;
   &lt;div class=&#34;swiper-button-next&#34;&gt;&lt;/div&gt;
@@ -797,11 +899,23 @@ Find the perfect high-quality replacement sensor for your Heavy-duty trucks, lon
 
 &lt;style&gt;
 .swiper-aec72a {
-  width: 800px;
-  margin: 0 auto;  
+  width: 100%;
+  max-width: 100%;
+  margin: 0 auto;
   
-  height: 600px;
+  aspect-ratio: ZgotmplZ;
   
+}
+
+ 
+.swiper-aec72a .swiper-wrapper {
+  display: flex;
+}
+
+.swiper-aec72a .swiper-slide {
+  flex-shrink: 0;
+  width: 100%;
+  position: relative;
 }
 
 .swiper-aec72a .swiper-slide img {
@@ -809,17 +923,28 @@ Find the perfect high-quality replacement sensor for your Heavy-duty trucks, lon
   height: 100%;
   object-fit: cover;
   border-radius: 12px;
+  display: block;
 }
 &lt;/style&gt;
 
+
 &lt;link rel=&#34;stylesheet&#34; href=&#34;https://cdn.jsdelivr.net/npm/swiper@10/swiper-bundle.min.css&#34; /&gt;
 &lt;script src=&#34;https://cdn.jsdelivr.net/npm/swiper@10/swiper-bundle.min.js&#34;&gt;&lt;/script&gt;
+
 &lt;script&gt;
 document.addEventListener(&#39;DOMContentLoaded&#39;, function () {
   var swiper = new Swiper(&#34;.swiper-aec72a&#34;, {
     loop: true,
-    pagination: { el: &#34;.swiper-aec72a .swiper-pagination&#34;, clickable: true },
-    navigation: { nextEl: &#34;.swiper-aec72a .swiper-button-next&#34;, prevEl: &#34;.swiper-aec72a .swiper-button-prev&#34; },
+    slidesPerView: 1,
+    spaceBetween: 10,
+    pagination: {
+      el: &#34;.swiper-aec72a .swiper-pagination&#34;,
+      clickable: true,
+    },
+    navigation: {
+      nextEl: &#34;.swiper-aec72a .swiper-button-next&#34;,
+      prevEl: &#34;.swiper-aec72a .swiper-button-prev&#34;,
+    },
   });
 });
 &lt;/script&gt;
@@ -986,6 +1111,8 @@ Find the perfect high-quality replacement sensor for your Heavy-duty trucks, lon
       &lt;img src=&#34;./assets/isuzu_10.avif&#34; alt=&#34;&#34;&gt;
     &lt;/div&gt;
   &lt;/div&gt;
+
+  
   &lt;div class=&#34;swiper-pagination&#34;&gt;&lt;/div&gt;
   &lt;div class=&#34;swiper-button-prev&#34;&gt;&lt;/div&gt;
   &lt;div class=&#34;swiper-button-next&#34;&gt;&lt;/div&gt;
@@ -993,11 +1120,23 @@ Find the perfect high-quality replacement sensor for your Heavy-duty trucks, lon
 
 &lt;style&gt;
 .swiper-d2fad9 {
-  width: 800px;
-  margin: 0 auto;  
+  width: 100%;
+  max-width: 100%;
+  margin: 0 auto;
   
-  height: 600px;
+  aspect-ratio: ZgotmplZ;
   
+}
+
+ 
+.swiper-d2fad9 .swiper-wrapper {
+  display: flex;
+}
+
+.swiper-d2fad9 .swiper-slide {
+  flex-shrink: 0;
+  width: 100%;
+  position: relative;
 }
 
 .swiper-d2fad9 .swiper-slide img {
@@ -1005,17 +1144,28 @@ Find the perfect high-quality replacement sensor for your Heavy-duty trucks, lon
   height: 100%;
   object-fit: cover;
   border-radius: 12px;
+  display: block;
 }
 &lt;/style&gt;
 
+
 &lt;link rel=&#34;stylesheet&#34; href=&#34;https://cdn.jsdelivr.net/npm/swiper@10/swiper-bundle.min.css&#34; /&gt;
 &lt;script src=&#34;https://cdn.jsdelivr.net/npm/swiper@10/swiper-bundle.min.js&#34;&gt;&lt;/script&gt;
+
 &lt;script&gt;
 document.addEventListener(&#39;DOMContentLoaded&#39;, function () {
   var swiper = new Swiper(&#34;.swiper-d2fad9&#34;, {
     loop: true,
-    pagination: { el: &#34;.swiper-d2fad9 .swiper-pagination&#34;, clickable: true },
-    navigation: { nextEl: &#34;.swiper-d2fad9 .swiper-button-next&#34;, prevEl: &#34;.swiper-d2fad9 .swiper-button-prev&#34; },
+    slidesPerView: 1,
+    spaceBetween: 10,
+    pagination: {
+      el: &#34;.swiper-d2fad9 .swiper-pagination&#34;,
+      clickable: true,
+    },
+    navigation: {
+      nextEl: &#34;.swiper-d2fad9 .swiper-button-next&#34;,
+      prevEl: &#34;.swiper-d2fad9 .swiper-button-prev&#34;,
+    },
   });
 });
 &lt;/script&gt;
@@ -1150,6 +1300,8 @@ Find the perfect high-quality replacement sensor for your Heavy-duty trucks, lon
       &lt;img src=&#34;./assets/iveco_10.avif&#34; alt=&#34;&#34;&gt;
     &lt;/div&gt;
   &lt;/div&gt;
+
+  
   &lt;div class=&#34;swiper-pagination&#34;&gt;&lt;/div&gt;
   &lt;div class=&#34;swiper-button-prev&#34;&gt;&lt;/div&gt;
   &lt;div class=&#34;swiper-button-next&#34;&gt;&lt;/div&gt;
@@ -1157,11 +1309,23 @@ Find the perfect high-quality replacement sensor for your Heavy-duty trucks, lon
 
 &lt;style&gt;
 .swiper-68d654 {
-  width: 800px;
-  margin: 0 auto;  
+  width: 100%;
+  max-width: 100%;
+  margin: 0 auto;
   
-  height: 600px;
+  aspect-ratio: ZgotmplZ;
   
+}
+
+ 
+.swiper-68d654 .swiper-wrapper {
+  display: flex;
+}
+
+.swiper-68d654 .swiper-slide {
+  flex-shrink: 0;
+  width: 100%;
+  position: relative;
 }
 
 .swiper-68d654 .swiper-slide img {
@@ -1169,17 +1333,28 @@ Find the perfect high-quality replacement sensor for your Heavy-duty trucks, lon
   height: 100%;
   object-fit: cover;
   border-radius: 12px;
+  display: block;
 }
 &lt;/style&gt;
 
+
 &lt;link rel=&#34;stylesheet&#34; href=&#34;https://cdn.jsdelivr.net/npm/swiper@10/swiper-bundle.min.css&#34; /&gt;
 &lt;script src=&#34;https://cdn.jsdelivr.net/npm/swiper@10/swiper-bundle.min.js&#34;&gt;&lt;/script&gt;
+
 &lt;script&gt;
 document.addEventListener(&#39;DOMContentLoaded&#39;, function () {
   var swiper = new Swiper(&#34;.swiper-68d654&#34;, {
     loop: true,
-    pagination: { el: &#34;.swiper-68d654 .swiper-pagination&#34;, clickable: true },
-    navigation: { nextEl: &#34;.swiper-68d654 .swiper-button-next&#34;, prevEl: &#34;.swiper-68d654 .swiper-button-prev&#34; },
+    slidesPerView: 1,
+    spaceBetween: 10,
+    pagination: {
+      el: &#34;.swiper-68d654 .swiper-pagination&#34;,
+      clickable: true,
+    },
+    navigation: {
+      nextEl: &#34;.swiper-68d654 .swiper-button-next&#34;,
+      prevEl: &#34;.swiper-68d654 .swiper-button-prev&#34;,
+    },
   });
 });
 &lt;/script&gt;
@@ -1330,6 +1505,8 @@ Find the perfect high-quality replacement sensor for your Heavy-duty trucks, lon
       &lt;img src=&#34;./assets/man_10.avif&#34; alt=&#34;&#34;&gt;
     &lt;/div&gt;
   &lt;/div&gt;
+
+  
   &lt;div class=&#34;swiper-pagination&#34;&gt;&lt;/div&gt;
   &lt;div class=&#34;swiper-button-prev&#34;&gt;&lt;/div&gt;
   &lt;div class=&#34;swiper-button-next&#34;&gt;&lt;/div&gt;
@@ -1337,11 +1514,23 @@ Find the perfect high-quality replacement sensor for your Heavy-duty trucks, lon
 
 &lt;style&gt;
 .swiper-1d950b {
-  width: 800px;
-  margin: 0 auto;  
+  width: 100%;
+  max-width: 100%;
+  margin: 0 auto;
   
-  height: 600px;
+  aspect-ratio: ZgotmplZ;
   
+}
+
+ 
+.swiper-1d950b .swiper-wrapper {
+  display: flex;
+}
+
+.swiper-1d950b .swiper-slide {
+  flex-shrink: 0;
+  width: 100%;
+  position: relative;
 }
 
 .swiper-1d950b .swiper-slide img {
@@ -1349,17 +1538,28 @@ Find the perfect high-quality replacement sensor for your Heavy-duty trucks, lon
   height: 100%;
   object-fit: cover;
   border-radius: 12px;
+  display: block;
 }
 &lt;/style&gt;
 
+
 &lt;link rel=&#34;stylesheet&#34; href=&#34;https://cdn.jsdelivr.net/npm/swiper@10/swiper-bundle.min.css&#34; /&gt;
 &lt;script src=&#34;https://cdn.jsdelivr.net/npm/swiper@10/swiper-bundle.min.js&#34;&gt;&lt;/script&gt;
+
 &lt;script&gt;
 document.addEventListener(&#39;DOMContentLoaded&#39;, function () {
   var swiper = new Swiper(&#34;.swiper-1d950b&#34;, {
     loop: true,
-    pagination: { el: &#34;.swiper-1d950b .swiper-pagination&#34;, clickable: true },
-    navigation: { nextEl: &#34;.swiper-1d950b .swiper-button-next&#34;, prevEl: &#34;.swiper-1d950b .swiper-button-prev&#34; },
+    slidesPerView: 1,
+    spaceBetween: 10,
+    pagination: {
+      el: &#34;.swiper-1d950b .swiper-pagination&#34;,
+      clickable: true,
+    },
+    navigation: {
+      nextEl: &#34;.swiper-1d950b .swiper-button-next&#34;,
+      prevEl: &#34;.swiper-1d950b .swiper-button-prev&#34;,
+    },
   });
 });
 &lt;/script&gt;
@@ -1532,6 +1732,8 @@ Find the perfect high-quality replacement sensor for your Heavy-duty trucks, lon
       &lt;img src=&#34;./assets/fuso_7.avif&#34; alt=&#34;&#34;&gt;
     &lt;/div&gt;
   &lt;/div&gt;
+
+  
   &lt;div class=&#34;swiper-pagination&#34;&gt;&lt;/div&gt;
   &lt;div class=&#34;swiper-button-prev&#34;&gt;&lt;/div&gt;
   &lt;div class=&#34;swiper-button-next&#34;&gt;&lt;/div&gt;
@@ -1539,11 +1741,23 @@ Find the perfect high-quality replacement sensor for your Heavy-duty trucks, lon
 
 &lt;style&gt;
 .swiper-07176d {
-  width: 800px;
-  margin: 0 auto;  
+  width: 100%;
+  max-width: 100%;
+  margin: 0 auto;
   
-  height: 600px;
+  aspect-ratio: ZgotmplZ;
   
+}
+
+ 
+.swiper-07176d .swiper-wrapper {
+  display: flex;
+}
+
+.swiper-07176d .swiper-slide {
+  flex-shrink: 0;
+  width: 100%;
+  position: relative;
 }
 
 .swiper-07176d .swiper-slide img {
@@ -1551,17 +1765,28 @@ Find the perfect high-quality replacement sensor for your Heavy-duty trucks, lon
   height: 100%;
   object-fit: cover;
   border-radius: 12px;
+  display: block;
 }
 &lt;/style&gt;
 
+
 &lt;link rel=&#34;stylesheet&#34; href=&#34;https://cdn.jsdelivr.net/npm/swiper@10/swiper-bundle.min.css&#34; /&gt;
 &lt;script src=&#34;https://cdn.jsdelivr.net/npm/swiper@10/swiper-bundle.min.js&#34;&gt;&lt;/script&gt;
+
 &lt;script&gt;
 document.addEventListener(&#39;DOMContentLoaded&#39;, function () {
   var swiper = new Swiper(&#34;.swiper-07176d&#34;, {
     loop: true,
-    pagination: { el: &#34;.swiper-07176d .swiper-pagination&#34;, clickable: true },
-    navigation: { nextEl: &#34;.swiper-07176d .swiper-button-next&#34;, prevEl: &#34;.swiper-07176d .swiper-button-prev&#34; },
+    slidesPerView: 1,
+    spaceBetween: 10,
+    pagination: {
+      el: &#34;.swiper-07176d .swiper-pagination&#34;,
+      clickable: true,
+    },
+    navigation: {
+      nextEl: &#34;.swiper-07176d .swiper-button-next&#34;,
+      prevEl: &#34;.swiper-07176d .swiper-button-prev&#34;,
+    },
   });
 });
 &lt;/script&gt;
@@ -1701,6 +1926,8 @@ Find the perfect high-quality replacement sensor for your car, SUV, or commercia
       &lt;img src=&#34;./assets/renault_8.avif&#34; alt=&#34;&#34;&gt;
     &lt;/div&gt;
   &lt;/div&gt;
+
+  
   &lt;div class=&#34;swiper-pagination&#34;&gt;&lt;/div&gt;
   &lt;div class=&#34;swiper-button-prev&#34;&gt;&lt;/div&gt;
   &lt;div class=&#34;swiper-button-next&#34;&gt;&lt;/div&gt;
@@ -1708,11 +1935,23 @@ Find the perfect high-quality replacement sensor for your car, SUV, or commercia
 
 &lt;style&gt;
 .swiper-77b7de {
-  width: 800px;
-  margin: 0 auto;  
+  width: 100%;
+  max-width: 100%;
+  margin: 0 auto;
   
-  height: 600px;
+  aspect-ratio: ZgotmplZ;
   
+}
+
+ 
+.swiper-77b7de .swiper-wrapper {
+  display: flex;
+}
+
+.swiper-77b7de .swiper-slide {
+  flex-shrink: 0;
+  width: 100%;
+  position: relative;
 }
 
 .swiper-77b7de .swiper-slide img {
@@ -1720,17 +1959,28 @@ Find the perfect high-quality replacement sensor for your car, SUV, or commercia
   height: 100%;
   object-fit: cover;
   border-radius: 12px;
+  display: block;
 }
 &lt;/style&gt;
 
+
 &lt;link rel=&#34;stylesheet&#34; href=&#34;https://cdn.jsdelivr.net/npm/swiper@10/swiper-bundle.min.css&#34; /&gt;
 &lt;script src=&#34;https://cdn.jsdelivr.net/npm/swiper@10/swiper-bundle.min.js&#34;&gt;&lt;/script&gt;
+
 &lt;script&gt;
 document.addEventListener(&#39;DOMContentLoaded&#39;, function () {
   var swiper = new Swiper(&#34;.swiper-77b7de&#34;, {
     loop: true,
-    pagination: { el: &#34;.swiper-77b7de .swiper-pagination&#34;, clickable: true },
-    navigation: { nextEl: &#34;.swiper-77b7de .swiper-button-next&#34;, prevEl: &#34;.swiper-77b7de .swiper-button-prev&#34; },
+    slidesPerView: 1,
+    spaceBetween: 10,
+    pagination: {
+      el: &#34;.swiper-77b7de .swiper-pagination&#34;,
+      clickable: true,
+    },
+    navigation: {
+      nextEl: &#34;.swiper-77b7de .swiper-button-next&#34;,
+      prevEl: &#34;.swiper-77b7de .swiper-button-prev&#34;,
+    },
   });
 });
 &lt;/script&gt;
@@ -1879,6 +2129,8 @@ Find the perfect high-quality replacement sensor for your Heavy-duty trucks, lon
       &lt;img src=&#34;./assets/scania_10.avif&#34; alt=&#34;&#34;&gt;
     &lt;/div&gt;
   &lt;/div&gt;
+
+  
   &lt;div class=&#34;swiper-pagination&#34;&gt;&lt;/div&gt;
   &lt;div class=&#34;swiper-button-prev&#34;&gt;&lt;/div&gt;
   &lt;div class=&#34;swiper-button-next&#34;&gt;&lt;/div&gt;
@@ -1886,11 +2138,23 @@ Find the perfect high-quality replacement sensor for your Heavy-duty trucks, lon
 
 &lt;style&gt;
 .swiper-2218c6 {
-  width: 800px;
-  margin: 0 auto;  
+  width: 100%;
+  max-width: 100%;
+  margin: 0 auto;
   
-  height: 600px;
+  aspect-ratio: ZgotmplZ;
   
+}
+
+ 
+.swiper-2218c6 .swiper-wrapper {
+  display: flex;
+}
+
+.swiper-2218c6 .swiper-slide {
+  flex-shrink: 0;
+  width: 100%;
+  position: relative;
 }
 
 .swiper-2218c6 .swiper-slide img {
@@ -1898,17 +2162,28 @@ Find the perfect high-quality replacement sensor for your Heavy-duty trucks, lon
   height: 100%;
   object-fit: cover;
   border-radius: 12px;
+  display: block;
 }
 &lt;/style&gt;
 
+
 &lt;link rel=&#34;stylesheet&#34; href=&#34;https://cdn.jsdelivr.net/npm/swiper@10/swiper-bundle.min.css&#34; /&gt;
 &lt;script src=&#34;https://cdn.jsdelivr.net/npm/swiper@10/swiper-bundle.min.js&#34;&gt;&lt;/script&gt;
+
 &lt;script&gt;
 document.addEventListener(&#39;DOMContentLoaded&#39;, function () {
   var swiper = new Swiper(&#34;.swiper-2218c6&#34;, {
     loop: true,
-    pagination: { el: &#34;.swiper-2218c6 .swiper-pagination&#34;, clickable: true },
-    navigation: { nextEl: &#34;.swiper-2218c6 .swiper-button-next&#34;, prevEl: &#34;.swiper-2218c6 .swiper-button-prev&#34; },
+    slidesPerView: 1,
+    spaceBetween: 10,
+    pagination: {
+      el: &#34;.swiper-2218c6 .swiper-pagination&#34;,
+      clickable: true,
+    },
+    navigation: {
+      nextEl: &#34;.swiper-2218c6 .swiper-button-next&#34;,
+      prevEl: &#34;.swiper-2218c6 .swiper-button-prev&#34;,
+    },
   });
 });
 &lt;/script&gt;
@@ -2075,6 +2350,8 @@ Find the perfect high-quality replacement sensor for your car, SUV, or commercia
       &lt;img src=&#34;./assets/volvo_10.avif&#34; alt=&#34;&#34;&gt;
     &lt;/div&gt;
   &lt;/div&gt;
+
+  
   &lt;div class=&#34;swiper-pagination&#34;&gt;&lt;/div&gt;
   &lt;div class=&#34;swiper-button-prev&#34;&gt;&lt;/div&gt;
   &lt;div class=&#34;swiper-button-next&#34;&gt;&lt;/div&gt;
@@ -2082,11 +2359,23 @@ Find the perfect high-quality replacement sensor for your car, SUV, or commercia
 
 &lt;style&gt;
 .swiper-165f89 {
-  width: 800px;
-  margin: 0 auto;  
+  width: 100%;
+  max-width: 100%;
+  margin: 0 auto;
   
-  height: 600px;
+  aspect-ratio: ZgotmplZ;
   
+}
+
+ 
+.swiper-165f89 .swiper-wrapper {
+  display: flex;
+}
+
+.swiper-165f89 .swiper-slide {
+  flex-shrink: 0;
+  width: 100%;
+  position: relative;
 }
 
 .swiper-165f89 .swiper-slide img {
@@ -2094,17 +2383,28 @@ Find the perfect high-quality replacement sensor for your car, SUV, or commercia
   height: 100%;
   object-fit: cover;
   border-radius: 12px;
+  display: block;
 }
 &lt;/style&gt;
 
+
 &lt;link rel=&#34;stylesheet&#34; href=&#34;https://cdn.jsdelivr.net/npm/swiper@10/swiper-bundle.min.css&#34; /&gt;
 &lt;script src=&#34;https://cdn.jsdelivr.net/npm/swiper@10/swiper-bundle.min.js&#34;&gt;&lt;/script&gt;
+
 &lt;script&gt;
 document.addEventListener(&#39;DOMContentLoaded&#39;, function () {
   var swiper = new Swiper(&#34;.swiper-165f89&#34;, {
     loop: true,
-    pagination: { el: &#34;.swiper-165f89 .swiper-pagination&#34;, clickable: true },
-    navigation: { nextEl: &#34;.swiper-165f89 .swiper-button-next&#34;, prevEl: &#34;.swiper-165f89 .swiper-button-prev&#34; },
+    slidesPerView: 1,
+    spaceBetween: 10,
+    pagination: {
+      el: &#34;.swiper-165f89 .swiper-pagination&#34;,
+      clickable: true,
+    },
+    navigation: {
+      nextEl: &#34;.swiper-165f89 .swiper-button-next&#34;,
+      prevEl: &#34;.swiper-165f89 .swiper-button-prev&#34;,
+    },
   });
 });
 &lt;/script&gt;
@@ -2327,6 +2627,8 @@ Find the perfect high-quality replacement sensor for your car, SUV, or commercia
       &lt;img src=&#34;./assets/audi_10.avif&#34; alt=&#34;&#34;&gt;
     &lt;/div&gt;
   &lt;/div&gt;
+
+  
   &lt;div class=&#34;swiper-pagination&#34;&gt;&lt;/div&gt;
   &lt;div class=&#34;swiper-button-prev&#34;&gt;&lt;/div&gt;
   &lt;div class=&#34;swiper-button-next&#34;&gt;&lt;/div&gt;
@@ -2334,11 +2636,23 @@ Find the perfect high-quality replacement sensor for your car, SUV, or commercia
 
 &lt;style&gt;
 .swiper-48c020 {
-  width: 800px;
-  margin: 0 auto;  
+  width: 100%;
+  max-width: 100%;
+  margin: 0 auto;
   
-  height: 600px;
+  aspect-ratio: ZgotmplZ;
   
+}
+
+ 
+.swiper-48c020 .swiper-wrapper {
+  display: flex;
+}
+
+.swiper-48c020 .swiper-slide {
+  flex-shrink: 0;
+  width: 100%;
+  position: relative;
 }
 
 .swiper-48c020 .swiper-slide img {
@@ -2346,17 +2660,28 @@ Find the perfect high-quality replacement sensor for your car, SUV, or commercia
   height: 100%;
   object-fit: cover;
   border-radius: 12px;
+  display: block;
 }
 &lt;/style&gt;
 
+
 &lt;link rel=&#34;stylesheet&#34; href=&#34;https://cdn.jsdelivr.net/npm/swiper@10/swiper-bundle.min.css&#34; /&gt;
 &lt;script src=&#34;https://cdn.jsdelivr.net/npm/swiper@10/swiper-bundle.min.js&#34;&gt;&lt;/script&gt;
+
 &lt;script&gt;
 document.addEventListener(&#39;DOMContentLoaded&#39;, function () {
   var swiper = new Swiper(&#34;.swiper-48c020&#34;, {
     loop: true,
-    pagination: { el: &#34;.swiper-48c020 .swiper-pagination&#34;, clickable: true },
-    navigation: { nextEl: &#34;.swiper-48c020 .swiper-button-next&#34;, prevEl: &#34;.swiper-48c020 .swiper-button-prev&#34; },
+    slidesPerView: 1,
+    spaceBetween: 10,
+    pagination: {
+      el: &#34;.swiper-48c020 .swiper-pagination&#34;,
+      clickable: true,
+    },
+    navigation: {
+      nextEl: &#34;.swiper-48c020 .swiper-button-next&#34;,
+      prevEl: &#34;.swiper-48c020 .swiper-button-prev&#34;,
+    },
   });
 });
 &lt;/script&gt;
@@ -2707,6 +3032,8 @@ Find the perfect high-quality replacement sensor for your car, SUV, or commercia
       &lt;img src=&#34;./assets/bmw_8.avif&#34; alt=&#34;&#34;&gt;
     &lt;/div&gt;
   &lt;/div&gt;
+
+  
   &lt;div class=&#34;swiper-pagination&#34;&gt;&lt;/div&gt;
   &lt;div class=&#34;swiper-button-prev&#34;&gt;&lt;/div&gt;
   &lt;div class=&#34;swiper-button-next&#34;&gt;&lt;/div&gt;
@@ -2714,11 +3041,23 @@ Find the perfect high-quality replacement sensor for your car, SUV, or commercia
 
 &lt;style&gt;
 .swiper-56ac13 {
-  width: 800px;
-  margin: 0 auto;  
+  width: 100%;
+  max-width: 100%;
+  margin: 0 auto;
   
-  height: 600px;
+  aspect-ratio: ZgotmplZ;
   
+}
+
+ 
+.swiper-56ac13 .swiper-wrapper {
+  display: flex;
+}
+
+.swiper-56ac13 .swiper-slide {
+  flex-shrink: 0;
+  width: 100%;
+  position: relative;
 }
 
 .swiper-56ac13 .swiper-slide img {
@@ -2726,17 +3065,28 @@ Find the perfect high-quality replacement sensor for your car, SUV, or commercia
   height: 100%;
   object-fit: cover;
   border-radius: 12px;
+  display: block;
 }
 &lt;/style&gt;
 
+
 &lt;link rel=&#34;stylesheet&#34; href=&#34;https://cdn.jsdelivr.net/npm/swiper@10/swiper-bundle.min.css&#34; /&gt;
 &lt;script src=&#34;https://cdn.jsdelivr.net/npm/swiper@10/swiper-bundle.min.js&#34;&gt;&lt;/script&gt;
+
 &lt;script&gt;
 document.addEventListener(&#39;DOMContentLoaded&#39;, function () {
   var swiper = new Swiper(&#34;.swiper-56ac13&#34;, {
     loop: true,
-    pagination: { el: &#34;.swiper-56ac13 .swiper-pagination&#34;, clickable: true },
-    navigation: { nextEl: &#34;.swiper-56ac13 .swiper-button-next&#34;, prevEl: &#34;.swiper-56ac13 .swiper-button-prev&#34; },
+    slidesPerView: 1,
+    spaceBetween: 10,
+    pagination: {
+      el: &#34;.swiper-56ac13 .swiper-pagination&#34;,
+      clickable: true,
+    },
+    navigation: {
+      nextEl: &#34;.swiper-56ac13 .swiper-button-next&#34;,
+      prevEl: &#34;.swiper-56ac13 .swiper-button-prev&#34;,
+    },
   });
 });
 &lt;/script&gt;
@@ -2919,6 +3269,8 @@ Find the perfect high-quality replacement sensor for your car, SUV, or commercia
       &lt;img src=&#34;./assets/chrysler_8.avif&#34; alt=&#34;&#34;&gt;
     &lt;/div&gt;
   &lt;/div&gt;
+
+  
   &lt;div class=&#34;swiper-pagination&#34;&gt;&lt;/div&gt;
   &lt;div class=&#34;swiper-button-prev&#34;&gt;&lt;/div&gt;
   &lt;div class=&#34;swiper-button-next&#34;&gt;&lt;/div&gt;
@@ -2926,11 +3278,23 @@ Find the perfect high-quality replacement sensor for your car, SUV, or commercia
 
 &lt;style&gt;
 .swiper-3a5229 {
-  width: 800px;
-  margin: 0 auto;  
+  width: 100%;
+  max-width: 100%;
+  margin: 0 auto;
   
-  height: 600px;
+  aspect-ratio: ZgotmplZ;
   
+}
+
+ 
+.swiper-3a5229 .swiper-wrapper {
+  display: flex;
+}
+
+.swiper-3a5229 .swiper-slide {
+  flex-shrink: 0;
+  width: 100%;
+  position: relative;
 }
 
 .swiper-3a5229 .swiper-slide img {
@@ -2938,17 +3302,28 @@ Find the perfect high-quality replacement sensor for your car, SUV, or commercia
   height: 100%;
   object-fit: cover;
   border-radius: 12px;
+  display: block;
 }
 &lt;/style&gt;
 
+
 &lt;link rel=&#34;stylesheet&#34; href=&#34;https://cdn.jsdelivr.net/npm/swiper@10/swiper-bundle.min.css&#34; /&gt;
 &lt;script src=&#34;https://cdn.jsdelivr.net/npm/swiper@10/swiper-bundle.min.js&#34;&gt;&lt;/script&gt;
+
 &lt;script&gt;
 document.addEventListener(&#39;DOMContentLoaded&#39;, function () {
   var swiper = new Swiper(&#34;.swiper-3a5229&#34;, {
     loop: true,
-    pagination: { el: &#34;.swiper-3a5229 .swiper-pagination&#34;, clickable: true },
-    navigation: { nextEl: &#34;.swiper-3a5229 .swiper-button-next&#34;, prevEl: &#34;.swiper-3a5229 .swiper-button-prev&#34; },
+    slidesPerView: 1,
+    spaceBetween: 10,
+    pagination: {
+      el: &#34;.swiper-3a5229 .swiper-pagination&#34;,
+      clickable: true,
+    },
+    navigation: {
+      nextEl: &#34;.swiper-3a5229 .swiper-button-next&#34;,
+      prevEl: &#34;.swiper-3a5229 .swiper-button-prev&#34;,
+    },
   });
 });
 &lt;/script&gt;
@@ -3064,7 +3439,7 @@ If the specific OE Part Number you require is not listed above, please do not wo
         
         &lt;p&gt;&lt;em&gt;Fortisor® offers the complete OE cross-reference list for all Mercedes-Benz NOx sensors.&lt;br&gt;
 Find the perfect high-quality replacement sensor for your car, SUV, or commercial vehicle by part number.&lt;/em&gt;&lt;/p&gt;
-&lt;div class=&#34;swiper-container swiper-19f03a&#34;&gt;
+&lt;div class=&#34;swiper swiper-19f03a&#34;&gt;
   &lt;div class=&#34;swiper-wrapper&#34;&gt;
     &lt;div class=&#34;swiper-slide&#34;&gt;
       &lt;img src=&#34;./assets/benz_1.avif&#34; alt=&#34;&#34;&gt;
@@ -3097,63 +3472,60 @@ Find the perfect high-quality replacement sensor for your car, SUV, or commercia
       &lt;img src=&#34;./assets/benz_10.avif&#34; alt=&#34;&#34;&gt;
     &lt;/div&gt;
   &lt;/div&gt;
+
+  
   &lt;div class=&#34;swiper-pagination&#34;&gt;&lt;/div&gt;
   &lt;div class=&#34;swiper-button-prev&#34;&gt;&lt;/div&gt;
   &lt;div class=&#34;swiper-button-next&#34;&gt;&lt;/div&gt;
 &lt;/div&gt;
 
 &lt;style&gt;
- 
 .swiper-19f03a {
   width: 100%;
-  max-width: 800px;
+  max-width: 100%;
   margin: 0 auto;
+  
+  aspect-ratio: ZgotmplZ;
+  
+}
+
+ 
+.swiper-19f03a .swiper-wrapper {
+  display: flex;
+}
+
+.swiper-19f03a .swiper-slide {
+  flex-shrink: 0;
+  width: 100%;
   position: relative;
 }
 
- 
-.swiper-19f03a::before {
-  content: &#34;&#34;;
-  display: block;
-  padding-top: calc(100% / (4 / 3));
-}
-
- 
-.swiper-19f03a .swiper-wrapper,
-.swiper-19f03a .swiper-slide,
-.swiper-19f03a img {
-  position: absolute;
-  top: 0;
-  left: 0;
+.swiper-19f03a .swiper-slide img {
   width: 100%;
   height: 100%;
-}
-
- 
-.swiper-19f03a img {
   object-fit: cover;
   border-radius: 12px;
-}
-
- 
-@media (max-width: 768px) {
-  .swiper-19f03a {
-    width: 100%;
-    max-width: 100%;
-  }
+  display: block;
 }
 &lt;/style&gt;
 
+
 &lt;link rel=&#34;stylesheet&#34; href=&#34;https://cdn.jsdelivr.net/npm/swiper@10/swiper-bundle.min.css&#34; /&gt;
 &lt;script src=&#34;https://cdn.jsdelivr.net/npm/swiper@10/swiper-bundle.min.js&#34;&gt;&lt;/script&gt;
+
 &lt;script&gt;
 document.addEventListener(&#39;DOMContentLoaded&#39;, function () {
-  new Swiper(&#34;.swiper-19f03a&#34;, {
+  var swiper = new Swiper(&#34;.swiper-19f03a&#34;, {
     loop: true,
-    pagination: { el: &#34;.swiper-19f03a .swiper-pagination&#34;, clickable: true },
+    slidesPerView: 1,
+    spaceBetween: 10,
+    pagination: {
+      el: &#34;.swiper-19f03a .swiper-pagination&#34;,
+      clickable: true,
+    },
     navigation: {
       nextEl: &#34;.swiper-19f03a .swiper-button-next&#34;,
-      prevEl: &#34;.swiper-19f03a .swiper-button-prev&#34;
+      prevEl: &#34;.swiper-19f03a .swiper-button-prev&#34;,
     },
   });
 });
@@ -3403,6 +3775,8 @@ Find the perfect high-quality replacement sensor for your car, SUV, or commercia
       &lt;img src=&#34;./assets/peugeot_10.avif&#34; alt=&#34;&#34;&gt;
     &lt;/div&gt;
   &lt;/div&gt;
+
+  
   &lt;div class=&#34;swiper-pagination&#34;&gt;&lt;/div&gt;
   &lt;div class=&#34;swiper-button-prev&#34;&gt;&lt;/div&gt;
   &lt;div class=&#34;swiper-button-next&#34;&gt;&lt;/div&gt;
@@ -3410,11 +3784,23 @@ Find the perfect high-quality replacement sensor for your car, SUV, or commercia
 
 &lt;style&gt;
 .swiper-95046d {
-  width: 800px;
-  margin: 0 auto;  
+  width: 100%;
+  max-width: 100%;
+  margin: 0 auto;
   
-  height: 600px;
+  aspect-ratio: ZgotmplZ;
   
+}
+
+ 
+.swiper-95046d .swiper-wrapper {
+  display: flex;
+}
+
+.swiper-95046d .swiper-slide {
+  flex-shrink: 0;
+  width: 100%;
+  position: relative;
 }
 
 .swiper-95046d .swiper-slide img {
@@ -3422,17 +3808,28 @@ Find the perfect high-quality replacement sensor for your car, SUV, or commercia
   height: 100%;
   object-fit: cover;
   border-radius: 12px;
+  display: block;
 }
 &lt;/style&gt;
 
+
 &lt;link rel=&#34;stylesheet&#34; href=&#34;https://cdn.jsdelivr.net/npm/swiper@10/swiper-bundle.min.css&#34; /&gt;
 &lt;script src=&#34;https://cdn.jsdelivr.net/npm/swiper@10/swiper-bundle.min.js&#34;&gt;&lt;/script&gt;
+
 &lt;script&gt;
 document.addEventListener(&#39;DOMContentLoaded&#39;, function () {
   var swiper = new Swiper(&#34;.swiper-95046d&#34;, {
     loop: true,
-    pagination: { el: &#34;.swiper-95046d .swiper-pagination&#34;, clickable: true },
-    navigation: { nextEl: &#34;.swiper-95046d .swiper-button-next&#34;, prevEl: &#34;.swiper-95046d .swiper-button-prev&#34; },
+    slidesPerView: 1,
+    spaceBetween: 10,
+    pagination: {
+      el: &#34;.swiper-95046d .swiper-pagination&#34;,
+      clickable: true,
+    },
+    navigation: {
+      nextEl: &#34;.swiper-95046d .swiper-button-next&#34;,
+      prevEl: &#34;.swiper-95046d .swiper-button-prev&#34;,
+    },
   });
 });
 &lt;/script&gt;
@@ -3581,6 +3978,8 @@ Find the perfect high-quality replacement sensor for your car, SUV, or commercia
       &lt;img src=&#34;./assets/audi_10.avif&#34; alt=&#34;&#34;&gt;
     &lt;/div&gt;
   &lt;/div&gt;
+
+  
   &lt;div class=&#34;swiper-pagination&#34;&gt;&lt;/div&gt;
   &lt;div class=&#34;swiper-button-prev&#34;&gt;&lt;/div&gt;
   &lt;div class=&#34;swiper-button-next&#34;&gt;&lt;/div&gt;
@@ -3588,11 +3987,23 @@ Find the perfect high-quality replacement sensor for your car, SUV, or commercia
 
 &lt;style&gt;
 .swiper-c43cec {
-  width: 800px;
-  margin: 0 auto;  
+  width: 100%;
+  max-width: 100%;
+  margin: 0 auto;
   
-  height: 600px;
+  aspect-ratio: ZgotmplZ;
   
+}
+
+ 
+.swiper-c43cec .swiper-wrapper {
+  display: flex;
+}
+
+.swiper-c43cec .swiper-slide {
+  flex-shrink: 0;
+  width: 100%;
+  position: relative;
 }
 
 .swiper-c43cec .swiper-slide img {
@@ -3600,17 +4011,28 @@ Find the perfect high-quality replacement sensor for your car, SUV, or commercia
   height: 100%;
   object-fit: cover;
   border-radius: 12px;
+  display: block;
 }
 &lt;/style&gt;
 
+
 &lt;link rel=&#34;stylesheet&#34; href=&#34;https://cdn.jsdelivr.net/npm/swiper@10/swiper-bundle.min.css&#34; /&gt;
 &lt;script src=&#34;https://cdn.jsdelivr.net/npm/swiper@10/swiper-bundle.min.js&#34;&gt;&lt;/script&gt;
+
 &lt;script&gt;
 document.addEventListener(&#39;DOMContentLoaded&#39;, function () {
   var swiper = new Swiper(&#34;.swiper-c43cec&#34;, {
     loop: true,
-    pagination: { el: &#34;.swiper-c43cec .swiper-pagination&#34;, clickable: true },
-    navigation: { nextEl: &#34;.swiper-c43cec .swiper-button-next&#34;, prevEl: &#34;.swiper-c43cec .swiper-button-prev&#34; },
+    slidesPerView: 1,
+    spaceBetween: 10,
+    pagination: {
+      el: &#34;.swiper-c43cec .swiper-pagination&#34;,
+      clickable: true,
+    },
+    navigation: {
+      nextEl: &#34;.swiper-c43cec .swiper-button-next&#34;,
+      prevEl: &#34;.swiper-c43cec .swiper-button-prev&#34;,
+    },
   });
 });
 &lt;/script&gt;

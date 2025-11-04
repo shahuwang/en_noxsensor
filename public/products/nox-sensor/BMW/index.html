@@ -782,6 +782,8 @@ Find the perfect high-quality replacement sensor for your car, SUV, or commercia
       <img src="./assets/bmw_8.avif" alt="">
     </div>
   </div>
+
+  
   <div class="swiper-pagination"></div>
   <div class="swiper-button-prev"></div>
   <div class="swiper-button-next"></div>
@@ -789,11 +791,23 @@ Find the perfect high-quality replacement sensor for your car, SUV, or commercia
 
 <style>
 .swiper-56ac13 {
-  width: 800px;
-  margin: 0 auto;  
+  width: 100%;
+  max-width: 100%;
+  margin: 0 auto;
   
-  height: 600px;
+  aspect-ratio: ZgotmplZ;
   
+}
+
+ 
+.swiper-56ac13 .swiper-wrapper {
+  display: flex;
+}
+
+.swiper-56ac13 .swiper-slide {
+  flex-shrink: 0;
+  width: 100%;
+  position: relative;
 }
 
 .swiper-56ac13 .swiper-slide img {
@@ -801,17 +815,28 @@ Find the perfect high-quality replacement sensor for your car, SUV, or commercia
   height: 100%;
   object-fit: cover;
   border-radius: 12px;
+  display: block;
 }
 </style>
 
+
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@10/swiper-bundle.min.css" />
 <script src="https://cdn.jsdelivr.net/npm/swiper@10/swiper-bundle.min.js"></script>
+
 <script>
 document.addEventListener('DOMContentLoaded', function () {
   var swiper = new Swiper(".swiper-56ac13", {
     loop: true,
-    pagination: { el: ".swiper-56ac13 .swiper-pagination", clickable: true },
-    navigation: { nextEl: ".swiper-56ac13 .swiper-button-next", prevEl: ".swiper-56ac13 .swiper-button-prev" },
+    slidesPerView: 1,
+    spaceBetween: 10,
+    pagination: {
+      el: ".swiper-56ac13 .swiper-pagination",
+      clickable: true,
+    },
+    navigation: {
+      nextEl: ".swiper-56ac13 .swiper-button-next",
+      prevEl: ".swiper-56ac13 .swiper-button-prev",
+    },
   });
 });
 </script>

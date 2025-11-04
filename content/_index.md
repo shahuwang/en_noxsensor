@@ -53,4 +53,4 @@ Partnering with Fortisor means more than just procuring parts; it means gaining 
 
 **Fortisor® \| Advanced Aftermarket Sensing Solutions**
 
-{{< swiper >}}
+{{< swiper ratio="4/3" fit="cover" maxWidth="800px" maxHeight="600px">}}

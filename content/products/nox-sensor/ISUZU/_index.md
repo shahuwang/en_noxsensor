@@ -21,7 +21,7 @@ swiper_images:
 *Fortisor® offers the complete OE cross-reference list for all ISUZU NOx sensors.  
 Find the perfect high-quality replacement sensor for your Heavy-duty trucks, long-distance buses, city buses, power generators, and marine engines by part number.*
 
-{{< swiper width="800px" height="600px" fit="cover" >}}
+{{< swiper ratio="4/3" fit="cover" maxWidth="800px" maxHeight="600px">}}
 
 #### Global Procurement Made Easy: Your Trusted Partner
 **Fortisor®** understands the stringent demands placed on NOx sensors within the ISUZU SCR system—**precision, reliability, and longevity are non-negotiable**.This page provides the complete OE Cross Reference List for ISUZU car, SUV, and commercial applications. We are not just a supplier; we are a technical brand deeply focused on emission control technology.

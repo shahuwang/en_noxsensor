@@ -788,6 +788,8 @@ Find the perfect high-quality replacement sensor for your Heavy-duty trucks, lon
       <img src="./assets/hino_10.avif" alt="">
     </div>
   </div>
+
+  
   <div class="swiper-pagination"></div>
   <div class="swiper-button-prev"></div>
   <div class="swiper-button-next"></div>
@@ -795,11 +797,23 @@ Find the perfect high-quality replacement sensor for your Heavy-duty trucks, lon
 
 <style>
 .swiper-6b0949 {
-  width: 800px;
-  margin: 0 auto;  
+  width: 100%;
+  max-width: 100%;
+  margin: 0 auto;
   
-  height: 600px;
+  aspect-ratio: ZgotmplZ;
   
+}
+
+ 
+.swiper-6b0949 .swiper-wrapper {
+  display: flex;
+}
+
+.swiper-6b0949 .swiper-slide {
+  flex-shrink: 0;
+  width: 100%;
+  position: relative;
 }
 
 .swiper-6b0949 .swiper-slide img {
@@ -807,17 +821,28 @@ Find the perfect high-quality replacement sensor for your Heavy-duty trucks, lon
   height: 100%;
   object-fit: cover;
   border-radius: 12px;
+  display: block;
 }
 </style>
 
+
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@10/swiper-bundle.min.css" />
 <script src="https://cdn.jsdelivr.net/npm/swiper@10/swiper-bundle.min.js"></script>
+
 <script>
 document.addEventListener('DOMContentLoaded', function () {
   var swiper = new Swiper(".swiper-6b0949", {
     loop: true,
-    pagination: { el: ".swiper-6b0949 .swiper-pagination", clickable: true },
-    navigation: { nextEl: ".swiper-6b0949 .swiper-button-next", prevEl: ".swiper-6b0949 .swiper-button-prev" },
+    slidesPerView: 1,
+    spaceBetween: 10,
+    pagination: {
+      el: ".swiper-6b0949 .swiper-pagination",
+      clickable: true,
+    },
+    navigation: {
+      nextEl: ".swiper-6b0949 .swiper-button-next",
+      prevEl: ".swiper-6b0949 .swiper-button-prev",
+    },
   });
 });
 </script>
