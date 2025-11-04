@@ -3064,7 +3064,7 @@ If the specific OE Part Number you require is not listed above, please do not wo
         
         &lt;p&gt;&lt;em&gt;Fortisor® offers the complete OE cross-reference list for all Mercedes-Benz NOx sensors.&lt;br&gt;
 Find the perfect high-quality replacement sensor for your car, SUV, or commercial vehicle by part number.&lt;/em&gt;&lt;/p&gt;
-&lt;div class=&#34;swiper swiper-19f03a&#34;&gt;
+&lt;div class=&#34;swiper-container swiper-19f03a&#34;&gt;
   &lt;div class=&#34;swiper-wrapper&#34;&gt;
     &lt;div class=&#34;swiper-slide&#34;&gt;
       &lt;img src=&#34;./assets/benz_1.avif&#34; alt=&#34;&#34;&gt;
@@ -3103,22 +3103,36 @@ Find the perfect high-quality replacement sensor for your car, SUV, or commercia
 &lt;/div&gt;
 
 &lt;style&gt;
+ 
 .swiper-19f03a {
   width: 100%;
   max-width: 800px;
   margin: 0 auto;
-  
-  aspect-ratio: ZgotmplZ;
-  
+  position: relative;
 }
 
  
-.swiper-19f03a .swiper-slide img {
+.swiper-19f03a::before {
+  content: &#34;&#34;;
+  display: block;
+  padding-top: calc(100% / (4 / 3));
+}
+
+ 
+.swiper-19f03a .swiper-wrapper,
+.swiper-19f03a .swiper-slide,
+.swiper-19f03a img {
+  position: absolute;
+  top: 0;
+  left: 0;
   width: 100%;
   height: 100%;
+}
+
+ 
+.swiper-19f03a img {
   object-fit: cover;
   border-radius: 12px;
-  display: block;
 }
 
  
@@ -3126,8 +3140,6 @@ Find the perfect high-quality replacement sensor for your car, SUV, or commercia
   .swiper-19f03a {
     width: 100%;
     max-width: 100%;
-    height: auto;
-    aspect-ratio: ZgotmplZ;
   }
 }
 &lt;/style&gt;
@@ -3139,7 +3151,10 @@ document.addEventListener(&#39;DOMContentLoaded&#39;, function () {
   new Swiper(&#34;.swiper-19f03a&#34;, {
     loop: true,
     pagination: { el: &#34;.swiper-19f03a .swiper-pagination&#34;, clickable: true },
-    navigation: { nextEl: &#34;.swiper-19f03a .swiper-button-next&#34;, prevEl: &#34;.swiper-19f03a .swiper-button-prev&#34; },
+    navigation: {
+      nextEl: &#34;.swiper-19f03a .swiper-button-next&#34;,
+      prevEl: &#34;.swiper-19f03a .swiper-button-prev&#34;
+    },
   });
 });
 &lt;/script&gt;

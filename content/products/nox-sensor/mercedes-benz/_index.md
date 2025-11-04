@@ -21,7 +21,7 @@ swiper_images:
 *Fortisor® offers the complete OE cross-reference list for all Mercedes-Benz NOx sensors.  
 Find the perfect high-quality replacement sensor for your car, SUV, or commercial vehicle by part number.*
 
-{{< swiper2 ratio="4/3" fit="cover">}}
+{{< swiper2 ratio="4/3" fit="cover" maxWidth="800px" maxHeight="600px">}}
 
 #### Global Procurement Made Easy: Your Trusted Partner
 **Fortisor®** understands the stringent demands placed on NOx sensors within the Mercedes-Benz SCR system—**precision, reliability, and longevity are non-negotiable**.This page provides the complete OE Cross Reference List for Mercedes car, SUV, and commercial applications. We are not just a supplier; we are a technical brand deeply focused on emission control technology.
