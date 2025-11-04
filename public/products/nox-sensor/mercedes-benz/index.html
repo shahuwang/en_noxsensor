@@ -85,7 +85,7 @@
   title=""
   href="/products/nox-sensor/mercedes-benz"
   
-  class="hx:text-sm hx:contrast-more:text-gray-700 hx:contrast-more:dark:text-gray-100 hx:relative hx:-ml-2 hx:hidden hx:whitespace-nowrap hx:p-2 hx:md:inline-flex hx:items-center hx:gap-1 hx:font-medium"
+  class="hx:text-sm hx:contrast-more:text-gray-700 hx:contrast-more:dark:text-gray-100 hx:relative hx:-ml-2 hx:hidden hx:whitespace-nowrap hx:p-2 hx:md:inline-flex hx:items-center hx:gap-1 hx:text-gray-600 hx:hover:text-gray-800 hx:dark:text-gray-400 hx:dark:hover:text-gray-200"
 ><span class="hx:text-center">NOx Sensor</span>
 </a><div class="hx:relative hx:hidden hx:md:inline-block">
   <button
@@ -755,7 +755,7 @@
           <h1>Fortisor® Mercedes Benz NOx Sensor OE List</h1>
           <p><em>Fortisor® offers the complete OE cross-reference list for all Mercedes-Benz NOx sensors.<br>
 Find the perfect high-quality replacement sensor for your car, SUV, or commercial vehicle by part number.</em></p>
-<div class="swiper-container swiper-19f03a">
+<div class="swiper swiper-19f03a">
   <div class="swiper-wrapper">
     <div class="swiper-slide">
       <img src="./assets/benz_1.avif" alt="">
@@ -788,63 +788,60 @@ Find the perfect high-quality replacement sensor for your car, SUV, or commercia
       <img src="./assets/benz_10.avif" alt="">
     </div>
   </div>
+
+  
   <div class="swiper-pagination"></div>
   <div class="swiper-button-prev"></div>
   <div class="swiper-button-next"></div>
 </div>
 
 <style>
- 
 .swiper-19f03a {
   width: 100%;
-  max-width: 800px;
+  max-width: 100%;
   margin: 0 auto;
+  
+  aspect-ratio: ZgotmplZ;
+  
+}
+
+ 
+.swiper-19f03a .swiper-wrapper {
+  display: flex;
+}
+
+.swiper-19f03a .swiper-slide {
+  flex-shrink: 0;
+  width: 100%;
   position: relative;
 }
 
- 
-.swiper-19f03a::before {
-  content: "";
-  display: block;
-  padding-top: calc(100% / (4 / 3));
-}
-
- 
-.swiper-19f03a .swiper-wrapper,
-.swiper-19f03a .swiper-slide,
-.swiper-19f03a img {
-  position: absolute;
-  top: 0;
-  left: 0;
+.swiper-19f03a .swiper-slide img {
   width: 100%;
   height: 100%;
-}
-
- 
-.swiper-19f03a img {
   object-fit: cover;
   border-radius: 12px;
-}
-
- 
-@media (max-width: 768px) {
-  .swiper-19f03a {
-    width: 100%;
-    max-width: 100%;
-  }
+  display: block;
 }
 </style>
 
+
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@10/swiper-bundle.min.css" />
 <script src="https://cdn.jsdelivr.net/npm/swiper@10/swiper-bundle.min.js"></script>
+
 <script>
 document.addEventListener('DOMContentLoaded', function () {
-  new Swiper(".swiper-19f03a", {
+  var swiper = new Swiper(".swiper-19f03a", {
     loop: true,
-    pagination: { el: ".swiper-19f03a .swiper-pagination", clickable: true },
+    slidesPerView: 1,
+    spaceBetween: 10,
+    pagination: {
+      el: ".swiper-19f03a .swiper-pagination",
+      clickable: true,
+    },
     navigation: {
       nextEl: ".swiper-19f03a .swiper-button-next",
-      prevEl: ".swiper-19f03a .swiper-button-prev"
+      prevEl: ".swiper-19f03a .swiper-button-prev",
     },
   });
 });
